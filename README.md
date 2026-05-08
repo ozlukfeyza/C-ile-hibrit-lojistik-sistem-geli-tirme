@@ -14,9 +14,4 @@ Bu proje, bir lojistik firmasının şehirler arası bağlantılarını ve paket
 * `graph.c` / `graph.h`: Graf yapısı ve BFS arama algoritması.
 * `common.h`: Ortak veri yapıları (Paket struct'ı).
 
-## Derleme ve Çalıştırma (macOS / Linux)
-Terminal üzerinden projeyi derlemek ve çalıştırmak için:
 
-```bash
-gcc *.c -o LojistikSistem
-./LojistikSistem
